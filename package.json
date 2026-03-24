@@ -1,0 +1,20 @@
+{
+  "name": "devops-git-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnthonyMouawad/devops-git-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnthonyMouawad/devops-git-project/issues"
+  },
+  "homepage": "https://github.com/AnthonyMouawad/devops-git-project#readme"
+}
